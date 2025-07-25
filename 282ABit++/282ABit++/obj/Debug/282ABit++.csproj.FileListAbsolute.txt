@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\bin\Debug\282ABit++.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\bin\Debug\282ABit++.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\bin\Debug\282ABit++.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\obj\Debug\282ABit++.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\obj\Debug\282ABit++.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\obj\Debug\282ABit++.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\obj\Debug\282ABit++.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\282ABit++\282ABit++\obj\Debug\282ABit++.exe.config

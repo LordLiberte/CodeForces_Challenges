@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\bin\Debug\339AHelpfulMaths.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\bin\Debug\339AHelpfulMaths.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\bin\Debug\339AHelpfulMaths.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\obj\Debug\339AHelpfulMaths.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\obj\Debug\339AHelpfulMaths.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\obj\Debug\339AHelpfulMaths.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\obj\Debug\339AHelpfulMaths.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\339AHelpfulMaths\339AHelpfulMaths\obj\Debug\339AHelpfulMaths.exe.config

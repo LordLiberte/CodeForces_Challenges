@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\bin\Debug\71A_WayTooLongWords.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\bin\Debug\71A_WayTooLongWords.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\bin\Debug\71A_WayTooLongWords.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\obj\Debug\71A_WayTooLongWords.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\obj\Debug\71A_WayTooLongWords.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\obj\Debug\71A_WayTooLongWords.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\obj\Debug\71A_WayTooLongWords.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\71A_WayTooLongWords\71A_WayTooLongWords\obj\Debug\71A_WayTooLongWords.exe.config

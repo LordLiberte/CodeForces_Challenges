@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\bin\Debug\263ABeautifulMatrix.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\bin\Debug\263ABeautifulMatrix.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\bin\Debug\263ABeautifulMatrix.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\obj\Debug\263ABeautifulMatrix.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\obj\Debug\263ABeautifulMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\obj\Debug\263ABeautifulMatrix.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\obj\Debug\263ABeautifulMatrix.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\263ABeautifulMatrix\263ABeautifulMatrix\obj\Debug\263ABeautifulMatrix.exe.config

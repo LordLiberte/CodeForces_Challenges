@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\bin\Debug\50ADominoPilling.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\bin\Debug\50ADominoPilling.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\bin\Debug\50ADominoPilling.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\obj\Debug\50ADominoPilling.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\obj\Debug\50ADominoPilling.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\obj\Debug\50ADominoPilling.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\obj\Debug\50ADominoPilling.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\50ADominoPilling\50ADominoPilling\obj\Debug\50ADominoPilling.exe.config

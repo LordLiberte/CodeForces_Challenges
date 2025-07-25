@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\bin\Debug\231ATeam.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\bin\Debug\231ATeam.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\bin\Debug\231ATeam.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\obj\Debug\231ATeam.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\obj\Debug\231ATeam.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\obj\Debug\231ATeam.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\obj\Debug\231ATeam.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\231ATeam\231ATeam\obj\Debug\231ATeam.exe.config

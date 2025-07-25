@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\bin\Debug\281AWordCapitalization.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\bin\Debug\281AWordCapitalization.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\bin\Debug\281AWordCapitalization.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\obj\Debug\281AWordCapitalization.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\obj\Debug\281AWordCapitalization.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\obj\Debug\281AWordCapitalization.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\obj\Debug\281AWordCapitalization.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\281AWordCapitalization\281AWordCapitalization\obj\Debug\281AWordCapitalization.exe.config

@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\bin\Debug\236ABoyOrGirl.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\bin\Debug\236ABoyOrGirl.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\bin\Debug\236ABoyOrGirl.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\obj\Debug\236ABoyOrGirl.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\obj\Debug\236ABoyOrGirl.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\obj\Debug\236ABoyOrGirl.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\obj\Debug\236ABoyOrGirl.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\236ABoyOrGirl\236ABoyOrGirl\obj\Debug\236ABoyOrGirl.exe.config

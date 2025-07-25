@@ -1,0 +1,7 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\bin\Debug\112APetyaAndStrings.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\bin\Debug\112APetyaAndStrings.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\bin\Debug\112APetyaAndStrings.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\obj\Debug\112APetyaAndStrings.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\obj\Debug\112APetyaAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\obj\Debug\112APetyaAndStrings.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\112APetyaAndStrings\112APetyaAndStrings\obj\Debug\112APetyaAndStrings.pdb

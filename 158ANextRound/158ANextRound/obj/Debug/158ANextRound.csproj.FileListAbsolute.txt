@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\bin\Debug\158ANextRound.exe.config
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\bin\Debug\158ANextRound.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\bin\Debug\158ANextRound.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\obj\Debug\158ANextRound.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\obj\Debug\158ANextRound.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\obj\Debug\158ANextRound.exe
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\obj\Debug\158ANextRound.pdb
+C:\Users\ghost\OneDrive\Escritorio\Escritorio\Github Repositorios\CodeForces_Challenges\158ANextRound\158ANextRound\obj\Debug\158ANextRound.exe.config
