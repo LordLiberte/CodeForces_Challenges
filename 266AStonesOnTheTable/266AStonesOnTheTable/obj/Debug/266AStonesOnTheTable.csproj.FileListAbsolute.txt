@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\bin\Debug\266AStonesOnTheTable.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\bin\Debug\266AStonesOnTheTable.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\bin\Debug\266AStonesOnTheTable.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\obj\Debug\266AStonesOnTheTable.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\obj\Debug\266AStonesOnTheTable.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\obj\Debug\266AStonesOnTheTable.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\obj\Debug\266AStonesOnTheTable.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\266AStonesOnTheTable\266AStonesOnTheTable\obj\Debug\266AStonesOnTheTable.exe.config
