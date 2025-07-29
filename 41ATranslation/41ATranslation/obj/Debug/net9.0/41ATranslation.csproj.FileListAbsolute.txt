@@ -1,0 +1,15 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\net9.0\41ATranslation.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\net9.0\41ATranslation.deps.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\net9.0\41ATranslation.runtimeconfig.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\net9.0\41ATranslation.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\net9.0\41ATranslation.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.sourcelink.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\refint\41ATranslation.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\41ATranslation.genruntimeconfig.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\net9.0\ref\41ATranslation.dll

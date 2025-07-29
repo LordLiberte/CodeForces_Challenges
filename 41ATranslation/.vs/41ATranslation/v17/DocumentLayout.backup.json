@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ghost\\OneDrive\\PC_Casa\\Github Repositorios\\CodeForces_Challenges\\41ATranslation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04E7CA7F-2FD1-485F-93ED-EBB0B01148C5}|41ATranslation\\41ATranslation.csproj|c:\\users\\ghost\\onedrive\\pc_casa\\github repositorios\\codeforces_challenges\\41atranslation\\41atranslation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E7CA7F-2FD1-485F-93ED-EBB0B01148C5}|41ATranslation\\41ATranslation.csproj|solutionrelative:41atranslation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D74A2C4-31F5-40F4-8B59-4218A6365379}|41ATranslation\\41ATranslation.csproj|c:\\users\\ghost\\onedrive\\pc_casa\\github repositorios\\codeforces_challenges\\41atranslation\\41atranslation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D74A2C4-31F5-40F4-8B59-4218A6365379}|41ATranslation\\41ATranslation.csproj|solutionrelative:41atranslation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\PC_Casa\\Github Repositorios\\CodeForces_Challenges\\41ATranslation\\41ATranslation\\Program.cs",
               "RelativeDocumentMoniker": "41ATranslation\\Program.cs",
-              "ToolTip": "C:\\Users\\ghost\\OneDrive\\PC_Casa\\Github Repositorios\\CodeForces_Challenges\\41ATranslation\\41ATranslation\\Program.cs*",
-              "RelativeToolTip": "41ATranslation\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwA8AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\PC_Casa\\Github Repositorios\\CodeForces_Challenges\\41ATranslation\\41ATranslation\\Program.cs",
+              "RelativeToolTip": "41ATranslation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T11:26:27.891Z",
+              "WhenOpened": "2025-07-29T12:02:50.894Z",
               "EditorCaption": ""
             }
           ]
