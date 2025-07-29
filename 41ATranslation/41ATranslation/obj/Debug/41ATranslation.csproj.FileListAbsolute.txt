@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\41ATranslation.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\41ATranslation.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\bin\Debug\41ATranslation.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\41ATranslation.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\41ATranslation.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\41ATranslation.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\41ATranslation.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\41ATranslation\41ATranslation\obj\Debug\41ATranslation.exe.config

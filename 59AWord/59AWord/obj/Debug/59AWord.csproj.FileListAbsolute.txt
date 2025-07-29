@@ -1,0 +1,7 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\bin\Debug\59AWord.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\bin\Debug\59AWord.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\bin\Debug\59AWord.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\obj\Debug\59AWord.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\obj\Debug\59AWord.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\obj\Debug\59AWord.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\CodeForces_Rounds\59AWord\59AWord\obj\Debug\59AWord.pdb

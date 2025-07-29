@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\bin\Debug\977AWrongSubtraction.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\bin\Debug\977AWrongSubtraction.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\bin\Debug\977AWrongSubtraction.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\obj\Debug\977AWrongSubtraction.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\obj\Debug\977AWrongSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\obj\Debug\977AWrongSubtraction.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\obj\Debug\977AWrongSubtraction.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\977AWrongSubtraction\977AWrongSubtraction\obj\Debug\977AWrongSubtraction.exe.config

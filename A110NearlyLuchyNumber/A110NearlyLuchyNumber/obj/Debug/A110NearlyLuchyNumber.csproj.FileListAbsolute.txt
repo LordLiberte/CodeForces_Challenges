@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\bin\Debug\A110NearlyLuchyNumber.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\bin\Debug\A110NearlyLuchyNumber.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\bin\Debug\A110NearlyLuchyNumber.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\obj\Debug\A110NearlyLuchyNumber.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\obj\Debug\A110NearlyLuchyNumber.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\obj\Debug\A110NearlyLuchyNumber.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\obj\Debug\A110NearlyLuchyNumber.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\A110NearlyLuchyNumber\A110NearlyLuchyNumber\obj\Debug\A110NearlyLuchyNumber.exe.config

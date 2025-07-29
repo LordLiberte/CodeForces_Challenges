@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\bin\Debug\734AAntonAndDanik.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\bin\Debug\734AAntonAndDanik.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\bin\Debug\734AAntonAndDanik.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\obj\Debug\734AAntonAndDanik.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\obj\Debug\734AAntonAndDanik.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\obj\Debug\734AAntonAndDanik.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\obj\Debug\734AAntonAndDanik.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\734AAntonAndDanik\734AAntonAndDanik\obj\Debug\734AAntonAndDanik.exe.config
