@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\bin\Debug\546ASoldierAndBananas.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\bin\Debug\546ASoldierAndBananas.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\bin\Debug\546ASoldierAndBananas.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\obj\Debug\546ASoldierAndBananas.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\obj\Debug\546ASoldierAndBananas.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\obj\Debug\546ASoldierAndBananas.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\obj\Debug\546ASoldierAndBananas.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\546ASoldierAndBananas\546ASoldierAndBananas\obj\Debug\546ASoldierAndBananas.exe.config

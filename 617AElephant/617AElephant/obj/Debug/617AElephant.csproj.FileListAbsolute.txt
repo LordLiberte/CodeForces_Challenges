@@ -1,0 +1,8 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\bin\Debug\617AElephant.exe.config
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\bin\Debug\617AElephant.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\bin\Debug\617AElephant.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\obj\Debug\617AElephant.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\obj\Debug\617AElephant.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\obj\Debug\617AElephant.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\obj\Debug\617AElephant.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\617AElephant\617AElephant\obj\Debug\617AElephant.exe.config
