@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\41ATranslation",
+    "\\41ATranslation\\41ATranslation"
   ],
+  "SelectedNode": "\\41ATranslation\\41ATranslation\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
