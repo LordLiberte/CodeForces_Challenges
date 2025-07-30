@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "677AVanyaAndFence/1.0.0": {
+        "runtime": {
+          "677AVanyaAndFence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "677AVanyaAndFence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

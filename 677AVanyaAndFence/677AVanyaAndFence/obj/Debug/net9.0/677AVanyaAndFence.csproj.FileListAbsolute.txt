@@ -1,0 +1,15 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\bin\Debug\net9.0\677AVanyaAndFence.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\bin\Debug\net9.0\677AVanyaAndFence.deps.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\bin\Debug\net9.0\677AVanyaAndFence.runtimeconfig.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\bin\Debug\net9.0\677AVanyaAndFence.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\bin\Debug\net9.0\677AVanyaAndFence.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.sourcelink.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\refint\677AVanyaAndFence.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\677AVanyaAndFence.genruntimeconfig.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\677AVanyaAndFence\677AVanyaAndFence\obj\Debug\net9.0\ref\677AVanyaAndFence.dll
