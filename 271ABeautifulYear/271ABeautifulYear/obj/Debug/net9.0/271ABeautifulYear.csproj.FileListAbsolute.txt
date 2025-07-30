@@ -1,0 +1,15 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\bin\Debug\net9.0\271ABeautifulYear.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\bin\Debug\net9.0\271ABeautifulYear.deps.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\bin\Debug\net9.0\271ABeautifulYear.runtimeconfig.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\bin\Debug\net9.0\271ABeautifulYear.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\bin\Debug\net9.0\271ABeautifulYear.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.sourcelink.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\refint\271ABeautifulYear.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\271ABeautifulYear.genruntimeconfig.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\271ABeautifulYear\271ABeautifulYear\obj\Debug\net9.0\ref\271ABeautifulYear.dll

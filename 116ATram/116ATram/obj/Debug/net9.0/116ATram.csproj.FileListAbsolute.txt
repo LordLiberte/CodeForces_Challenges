@@ -1,0 +1,15 @@
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\bin\Debug\net9.0\116ATram.exe
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\bin\Debug\net9.0\116ATram.deps.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\bin\Debug\net9.0\116ATram.runtimeconfig.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\bin\Debug\net9.0\116ATram.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\bin\Debug\net9.0\116ATram.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.sourcelink.json
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\refint\116ATram.dll
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.pdb
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\116ATram.genruntimeconfig.cache
+C:\Users\ghost\OneDrive\PC_Casa\Github Repositorios\CodeForces_Challenges\116ATram\116ATram\obj\Debug\net9.0\ref\116ATram.dll
